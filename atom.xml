@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-04-29T16:40:00.797Z</updated>
+  <updated>2018-04-29T16:42:20.776Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://yoursite.com/2018/04/30/%E5%9B%9B%E6%9C%88/"/>
     <id>http://yoursite.com/2018/04/30/四月/</id>
     <published>2018-04-29T16:30:25.000Z</published>
-    <updated>2018-04-29T16:40:00.797Z</updated>
+    <updated>2018-04-29T16:42:20.776Z</updated>
     
     <content type="html"><![CDATA[<p><img src="https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1239474080,1101111313&amp;fm=27&amp;gp=0.jpg" alt="image"></p><div align="center"><br>程序是一个精明的愣头青<br>代码描绘不出情感<br>如果爱是上帝的安排<br>那么一定是源于某处的错误<br><div align="center"><br>象征死亡的却不死亡<br>冬天剥削春天<br>于是<br>人间的四月<br>雷雨夭折在海边<br><div align="center"><br>等待是一种无期徒刑<br>从你打算开始<br>镣铐锁上心<br>在劫难逃<br><div align="center"><br>承诺这种俏皮话<br>期限只有一秒钟<br>说的人随口而出<br>听的人至死不渝<br><br><br><br><div align="right">七野禾<br>4.19<br></div><hr></div></div></div></div>]]></content>
     
@@ -35,6 +35,8 @@
     
     </summary>
     
+    
+      <category term="poetry" scheme="http://yoursite.com/tags/poetry/"/>
     
   </entry>
   
