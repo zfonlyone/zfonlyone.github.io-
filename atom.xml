@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-09-28T13:54:55.483Z</updated>
+  <updated>2018-09-28T14:38:24.393Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,17 +21,15 @@
     <link href="http://yoursite.com/2018/09/28/%E7%AE%80%E5%8E%86/"/>
     <id>http://yoursite.com/2018/09/28/简历/</id>
     <published>2018-09-28T12:17:23.000Z</published>
-    <updated>2018-09-28T13:54:55.483Z</updated>
+    <updated>2018-09-28T14:38:24.393Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="联系方式"><a href="#联系方式" class="headerlink" title="联系方式"></a>联系方式</h1><ul><li>Email：<a href="mailto:zfonlyone@outlook.com" target="_blank" rel="noopener">zfonlyone@outlook.com</a></li></ul><h1 id="个人信息"><a href="#个人信息" class="headerlink" title="个人信息"></a>个人信息</h1><ul><li>成洪根/男/1998</li><li>本科/大连海事大学大学计算机系 </li><li>技术博客：<a href="https://zfonlyone.github.io/" target="_blank" rel="noopener">https://zfonlyone.github.io/</a></li><li>Github：<a href="https://github.com/zfonlyone" target="_blank" rel="noopener">https://github.com/zfonlyone</a></li></ul><h1 id="研究兴趣"><a href="#研究兴趣" class="headerlink" title="研究兴趣"></a>研究兴趣</h1><ul><li>计算机视觉 ：物体识别，小样本高精度分类</li><li>机器学习 ：深度学习，迁移学习，增强学习，在线学习</li><li>脑机接口 ：接口研究</li><li>认知和计算神经科学</li></ul><h1 id="开源项目和作品"><a href="#开源项目和作品" class="headerlink" title="开源项目和作品"></a>开源项目和作品</h1><h2 id="开源项目"><a href="#开源项目" class="headerlink" title="开源项目"></a>开源项目</h2><ul><li><a href="https://github.com/zfonlyone/urp" target="_blank" rel="noopener">URP教务系统爬虫</a>：从urp教务系统获取成绩，课表，头像等</li></ul><ul><li><a href="https://github.com/zfonlyone/urp" target="_blank" rel="noopener">pi_ai基于树莓派的行人检测系统</a>：基于树莓派的行人检测系统，实时，本地计算，python+opencv（未完成）</li></ul><h1 id="技能清单"><a href="#技能清单" class="headerlink" title="技能清单"></a>技能清单</h1><p>以下均为我熟练使用的技能</p><ul><li>编程语言 ：c/c++/python/matlab/java</li><li>数据库相关：MySQL/PgSQL/SQLServer</li><li>版本管理、文档和自动化部署工具：Git</li><li>技术：网络爬虫、tensflow、opencv</li></ul><h1 id="曾获荣誉"><a href="#曾获荣誉" class="headerlink" title="曾获荣誉"></a>曾获荣誉</h1><ul><li>Mathematical Contest In Modeling 2018: Successful Participant (in ICM’s D problem)</li></ul>]]></content>
+    <content type="html"><![CDATA[<h1 id="联系方式"><a href="#联系方式" class="headerlink" title="联系方式"></a>联系方式</h1><ul><li>Email：<a href="mailto:zfonlyone@outlook.com" target="_blank" rel="noopener">zfonlyone@outlook.com</a></li></ul><a id="more"></a><h1 id="个人信息"><a href="#个人信息" class="headerlink" title="个人信息"></a>个人信息</h1><ul><li>成洪根/男/1998</li><li>本科/大连海事大学大学计算机系 </li><li>技术博客：<a href="https://zfonlyone.github.io/" target="_blank" rel="noopener">https://zfonlyone.github.io/</a></li><li>Github：<a href="https://github.com/zfonlyone" target="_blank" rel="noopener">https://github.com/zfonlyone</a></li></ul><h1 id="研究兴趣"><a href="#研究兴趣" class="headerlink" title="研究兴趣"></a>研究兴趣</h1><ul><li>计算机视觉 ：物体识别，小样本高精度分类</li><li>机器学习 ：深度学习，迁移学习，增强学习，在线学习</li><li>脑机接口 ：接口研究</li><li>认知和计算神经科学</li></ul><h1 id="开源项目和作品"><a href="#开源项目和作品" class="headerlink" title="开源项目和作品"></a>开源项目和作品</h1><h2 id="开源项目"><a href="#开源项目" class="headerlink" title="开源项目"></a>开源项目</h2><ul><li><a href="https://github.com/zfonlyone/urp" target="_blank" rel="noopener">URP教务系统爬虫</a>：从urp教务系统获取成绩，课表，头像等</li></ul><ul><li><a href="https://github.com/zfonlyone/urp" target="_blank" rel="noopener">pi_ai基于树莓派的行人检测系统</a>：基于树莓派的行人检测系统，实时，本地计算，python+opencv（未完成）</li></ul><h1 id="技能清单"><a href="#技能清单" class="headerlink" title="技能清单"></a>技能清单</h1><p>以下均为我熟练使用的技能</p><ul><li>编程语言 ：c/c++/python/matlab/java</li><li>数据库相关：MySQL/PgSQL/SQLServer</li><li>版本管理、文档和自动化部署工具：Git</li><li>技术：网络爬虫、tensflow、opencv</li></ul><h1 id="曾获荣誉"><a href="#曾获荣誉" class="headerlink" title="曾获荣誉"></a>曾获荣誉</h1><ul><li>Mathematical Contest In Modeling 2018: Successful Participant (in ICM’s D problem)</li></ul>]]></content>
     
     <summary type="html">
     
-      
-      
-        &lt;h1 id=&quot;联系方式&quot;&gt;&lt;a href=&quot;#联系方式&quot; class=&quot;headerlink&quot; title=&quot;联系方式&quot;&gt;&lt;/a&gt;联系方式&lt;/h1&gt;&lt;ul&gt;
-&lt;li&gt;Email：&lt;a href=&quot;mailto:zfonlyone@outlook.com&quot; target=&quot;_bl
-      
+      &lt;h1 id=&quot;联系方式&quot;&gt;&lt;a href=&quot;#联系方式&quot; class=&quot;headerlink&quot; title=&quot;联系方式&quot;&gt;&lt;/a&gt;联系方式&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;Email：&lt;a href=&quot;mailto:zfonlyone@outlook.com&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;zfonlyone@outlook.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
     
     </summary>
     
@@ -47,16 +45,13 @@
     <link href="http://yoursite.com/2018/09/28/%E7%BB%99%E5%AE%89%E7%84%B6%E7%9A%84%E8%AF%97-9-26/"/>
     <id>http://yoursite.com/2018/09/28/给安然的诗-9-26/</id>
     <published>2018-09-28T11:46:10.000Z</published>
-    <updated>2018-09-28T13:49:31.648Z</updated>
+    <updated>2018-09-28T14:40:29.393Z</updated>
     
-    <content type="html"><![CDATA[<div align="center"><br>偏执构建的堡垒中<br>我甘愿成为感性的奴隶<br>当喜欢逐渐演变成一场重感冒<br>我并不担心如何痊愈<br>在39.5℃的意识里<br>命运是断线的几只风筝<br>趁生活还未打成死结<br>一只猫咪将我们拾起<br>然后你在我脑中轻轻涂鸦<br>误解产生的浮力<br>足以打捞我沉默的心<br>孤独并非一千零一夜的瓶中恶魔<br>忧郁的海洋涌入我们之间<br>两种情愫在彼岸隔海相望<br>漂流瓶需要一些幸运眷顾<br>如果我喜欢你的心情像飞蛾扑火<br>那是不是墓碑才能表明真心<br>我不能假装安然离开<br>如同退烧不能发生在半夜<br>黎明前<br>把晦涩归还给昨天<br>在海边<br>我要将你死死的抱住<br>如果 你说<br>甘愿被你感染<br><br><br><div align="right">七野禾<br>9.26初稿<br>9.27一改<br>9.28二改<br></div></div>]]></content>
+    <content type="html"><![CDATA[<div align="center"><br>偏执构建的堡垒中<br>我甘愿成为感性的奴隶<br><a id="more"></a><br>当喜欢逐渐演变成一场重感冒<br>我并不担心如何痊愈<br>在39.5℃的意识里<br>命运是断线的几只风筝<br>趁生活还未打成死结<br>一只猫咪将我们拾起<br>然后你在我脑中轻轻涂鸦<br>误解产生的浮力<br>足以打捞我沉默的心<br>孤独并非一千零一夜的瓶中恶魔<br>忧郁的海洋涌入我们之间<br>两种情愫在彼岸隔海相望<br>漂流瓶需要一些幸运眷顾<br>如果我喜欢你的心情像飞蛾扑火<br>那是不是墓碑才能表明真心<br>我不能假装安然离开<br>如同退烧不能发生在半夜<br>黎明前<br>把晦涩归还给昨天<br>在海边<br>我要将你死死的抱住<br>如果 你说<br>甘愿被你感染<br><br><br><div align="right">七野禾<br>9.26初稿<br>9.27一改<br>9.28二改<br></div></div>]]></content>
     
     <summary type="html">
     
-      
-      
-        &lt;div align=&quot;center&quot;&gt;&lt;br&gt;偏执构建的堡垒中&lt;br&gt;我甘愿成为感性的奴隶&lt;br&gt;当喜欢逐渐演变成一场重感冒&lt;br&gt;我并不担心如何痊愈&lt;br&gt;在39.5℃的意识里&lt;br&gt;命运是断线的几只风筝&lt;br&gt;趁生活还未打成死结&lt;br&gt;一只猫咪将我们拾起&lt;br&gt;然后你在我脑
-      
+      &lt;div align=&quot;center&quot;&gt;&lt;br&gt;偏执构建的堡垒中&lt;br&gt;我甘愿成为感性的奴隶&lt;br&gt;
     
     </summary>
     
@@ -97,16 +92,13 @@
     <link href="http://yoursite.com/2018/09/17/%E5%8F%B0%E9%A3%8E%E5%B1%B1%E7%AB%B9/"/>
     <id>http://yoursite.com/2018/09/17/台风山竹/</id>
     <published>2018-09-17T11:42:15.000Z</published>
-    <updated>2018-09-28T13:53:12.968Z</updated>
+    <updated>2018-09-28T14:41:04.145Z</updated>
     
-    <content type="html"><![CDATA[<div align="center"><br>昨晚与母亲联络<br>和她解释了周六因事耽搁的视频通话<br>母亲很担心我<br>台风山竹的消息从各种途径传到她的耳朵<br>家乡学校都已经停课<br>某某广州工作的表姐也因台风停工<br>我和她解释<br>这里是遥远的北方<br>台风不会影响我<br>母亲没有地理观念<br>大连只是一个名称<br>一个比北京还要远的地方<br>但她的儿子在这座城市<br>这距离从来没有离开过她的身边<br><br><br><br><div align="right">七野禾<br>9.17<br></div></div>]]></content>
+    <content type="html"><![CDATA[<div align="center"><br>昨晚与母亲联络<br>和她解释了周六因事耽搁的视频通话<br><a id="more"></a><br>母亲很担心我<br>台风山竹的消息从各种途径传到她的耳朵<br>家乡学校都已经停课<br>某某广州工作的表姐也因台风停工<br>我和她解释<br>这里是遥远的北方<br>台风不会影响我<br>母亲没有地理观念<br>大连只是一个名称<br>一个比北京还要远的地方<br>但她的儿子在这座城市<br>这距离从来没有离开过她的身边<br><br><br><br><div align="right">七野禾<br>9.17<br></div></div>]]></content>
     
     <summary type="html">
     
-      
-      
-        &lt;div align=&quot;center&quot;&gt;&lt;br&gt;昨晚与母亲联络&lt;br&gt;和她解释了周六因事耽搁的视频通话&lt;br&gt;母亲很担心我&lt;br&gt;台风山竹的消息从各种途径传到她的耳朵&lt;br&gt;家乡学校都已经停课&lt;br&gt;某某广州工作的表姐也因台风停工&lt;br&gt;我和她解释&lt;br&gt;这里是遥远的北方&lt;br&gt;
-      
+      &lt;div align=&quot;center&quot;&gt;&lt;br&gt;昨晚与母亲联络&lt;br&gt;和她解释了周六因事耽搁的视频通话&lt;br&gt;
     
     </summary>
     
@@ -122,16 +114,13 @@
     <link href="http://yoursite.com/2018/08/28/%E5%A4%8F%E6%97%A5%E7%BB%84%E8%AF%97/"/>
     <id>http://yoursite.com/2018/08/28/夏日组诗/</id>
     <published>2018-08-28T03:28:29.000Z</published>
-    <updated>2018-09-28T13:53:04.601Z</updated>
+    <updated>2018-09-28T14:47:21.936Z</updated>
     
-    <content type="html"><![CDATA[<div align="center"><br>一<br><br>不知什么时候<br>在心底 筑起高墙<br>企图阻挡尘世间的纷纷扰扰<br>但是不能隔绝宿命<br>就像可以假装木纳<br>引用帕拉图来回绝<br>同时一切<br>也会在自己身上验证<br>真是命运可笑的捉弄<br><br><br>二<br><br>选择是人生的基石<br>回溯前半生的历程<br>像一个历史学家般发言<br>如果上帝学会了回溯算法<br>人生也不会在欢乐中发霉<br><br><br>三<br><br>把思想写在纸上<br>引诱注意力的上钩<br>我在此刻猜想你皱起的眉头<br>不用担心<br>人不是复杂的动物<br>喜欢和爱不用刻意区别<br><br><br>四<br><br>剧本<br><br>人们习惯给未来规划目标<br>我把未来写成一本剧本<br>但无法控制结局的导向<br>因为我是一个二三流的编剧<br>剧本是一张只有填空题的试卷<br>麻木地记下<br>某年某月<br>在某处遇见某个人<br>我只是一个二三流的演员<br>难免会有穿帮的时候<br>穿帮那天我看见你的名字<br>我改写了结局<br><br>五<br><br>时常有错觉<br>能够跑赢时间<br>奈何一切<br>都有一个期限<br>喜欢超过了保质期<br><br>六<br><br>阿尼玛<br>是每一个男孩的梦中情人<br>阿尼姆<br>是每一个女孩的最佳恋人<br><br>阿尼玛和阿尼姆会相爱吗？<br><br>七<br><br>文体不限<br>诗歌除外<br><br>九<br><br>理想主义者<br>只剩下理想<br><br><br><br><div align="right">七野禾<br>8.28<br></div></div>]]></content>
+    <content type="html"><![CDATA[<div align="center"><br>一<br><br>不知什么时候<br>在心底 筑起高墙<br><a id="more"></a><br>企图阻挡尘世间的纷纷扰扰<br>但是不能隔绝宿命<br>就像可以假装木纳<br>引用帕拉图来回绝<br>同时一切<br>也会在自己身上验证<br>真是命运可笑的捉弄<br><br><br>二<br><br>选择是人生的基石<br>回溯前半生的历程<br>像一个历史学家般发言<br>如果上帝学会了回溯算法<br>人生也不会在欢乐中发霉<br><br><br>三<br><br>把思想写在纸上<br>引诱注意力的上钩<br>我在此刻猜想你皱起的眉头<br>不用担心<br>人不是复杂的动物<br>喜欢和爱不用刻意区别<br><br><br>四<br><br>剧本<br><br>人们习惯给未来规划目标<br>我把未来写成一本剧本<br>但无法控制结局的导向<br>因为我是一个二三流的编剧<br>剧本是一张只有填空题的试卷<br>麻木地记下<br>某年某月<br>在某处遇见某个人<br>我只是一个二三流的演员<br>难免会有穿帮的时候<br>穿帮那天我看见你的名字<br>我改写了结局<br><br>五<br><br>时常有错觉<br>能够跑赢时间<br>奈何一切<br>都有一个期限<br>喜欢超过了保质期<br><br>六<br><br>阿尼玛<br>是每一个男孩的梦中情人<br>阿尼姆<br>是每一个女孩的最佳恋人<br><br>阿尼玛和阿尼姆会相爱吗？<br><br>七<br><br>文体不限<br>诗歌除外<br><br>九<br><br>理想主义者<br>只剩下理想<br><br><br><br><div align="right">七野禾<br>8.28<br></div></div>]]></content>
     
     <summary type="html">
     
-      
-      
-        &lt;div align=&quot;center&quot;&gt;&lt;br&gt;一&lt;br&gt;&lt;br&gt;不知什么时候&lt;br&gt;在心底 筑起高墙&lt;br&gt;企图阻挡尘世间的纷纷扰扰&lt;br&gt;但是不能隔绝宿命&lt;br&gt;就像可以假装木纳&lt;br&gt;引用帕拉图来回绝&lt;br&gt;同时一切&lt;br&gt;也会在自己身上验证&lt;br&gt;真是命运可笑的捉弄&lt;br
-      
+      &lt;div align=&quot;center&quot;&gt;&lt;br&gt;一&lt;br&gt;&lt;br&gt;不知什么时候&lt;br&gt;在心底 筑起高墙&lt;br&gt;
     
     </summary>
     
@@ -147,16 +136,13 @@
     <link href="http://yoursite.com/2018/07/24/%E8%83%BD%E5%90%A6/"/>
     <id>http://yoursite.com/2018/07/24/能否/</id>
     <published>2018-07-24T03:15:42.000Z</published>
-    <updated>2018-09-28T13:52:42.864Z</updated>
+    <updated>2018-09-28T14:46:54.239Z</updated>
     
-    <content type="html"><![CDATA[<div align="center"><br>小小的县城<br>窄窄的路<br>能否让我和心上人<br>多走几步<br><br>红绿灯<br>斑马路<br>能否让眼前的他<br>慢下脚步<br><br>行道树 街道牌<br>一幕幕倒退的回忆<br>能否挽回<br>离开的背影<br><br>七月是云朵<br>夏天是风<br>你是沉默的路灯<br>与敷衍的黄昏<br><br>一圈一圈<br>永远不想走到终点<br>眼泪眼泪<br>就让风带走你们<br><br><br><br><br><br><br><br><br><br><br><div align="right">PS：尝试以女生的角度，描写其内心活动<br>七野禾<br>7.24<br></div><hr></div>]]></content>
+    <content type="html"><![CDATA[<div align="center"><br>小小的县城<br>窄窄的路<br>能否让我和心上人<br>多走几步<br><a id="more"></a><br>红绿灯<br>斑马路<br>能否让眼前的他<br>慢下脚步<br><br>行道树 街道牌<br>一幕幕倒退的回忆<br>能否挽回<br>离开的背影<br><br>七月是云朵<br>夏天是风<br>你是沉默的路灯<br>与敷衍的黄昏<br><br>一圈一圈<br>永远不想走到终点<br>眼泪眼泪<br>就让风带走你们<br><br><br><br><br><br><br><br><br><br><br><div align="right">PS：尝试以女生的角度，描写其内心活动<br>七野禾<br>7.24<br></div><hr></div>]]></content>
     
     <summary type="html">
     
-      
-      
-        &lt;div align=&quot;center&quot;&gt;&lt;br&gt;小小的县城&lt;br&gt;窄窄的路&lt;br&gt;能否让我和心上人&lt;br&gt;多走几步&lt;br&gt;&lt;br&gt;红绿灯&lt;br&gt;斑马路&lt;br&gt;能否让眼前的他&lt;br&gt;慢下脚步&lt;br&gt;&lt;br&gt;行道树 街道牌&lt;br&gt;一幕幕倒退的回忆&lt;br&gt;能否挽回&lt;br&gt;离开的背影&lt;b
-      
+      &lt;div align=&quot;center&quot;&gt;&lt;br&gt;小小的县城&lt;br&gt;窄窄的路&lt;br&gt;能否让我和心上人&lt;br&gt;多走几步&lt;br&gt;
     
     </summary>
     
@@ -172,19 +158,14 @@
     <link href="http://yoursite.com/2018/06/14/%E8%B7%AF/"/>
     <id>http://yoursite.com/2018/06/14/路/</id>
     <published>2018-06-14T14:01:19.000Z</published>
-    <updated>2018-06-14T14:40:02.666Z</updated>
+    <updated>2018-09-28T14:46:19.635Z</updated>
     
-    <content type="html"><![CDATA[<p>（其一）</p><p>知行楼前<br>一段不长的小道<br>我的故友<br>在这沉睡了许多年</p><p>我只在早晨和傍晚<br>拜访他<br>只有等世界安静了<br>脱轨的生活与鸟儿才会归巢</p><p>宁静的小道<br>不远处传来<br>打篮球的男生爽朗的声音<br>和结伴而行的女孩清脆的笑声</p><p>但这是暂时的<br>打破宁静的都将归为沉寂<br>漫长的年代里<br>一切只是浮光掠影</p><p>一段不长的路<br>我从这头走到那头<br>恍惚间<br>回头已是白头</p><p>（其二）</p><p>国道二零七<br>江华段<br>每一条回家的路<br>最初都是离家的路</p><p>一辆稍旧的小巴<br>终年奔波于此<br>它没有看见过外面的世界<br>只从旅客口中得知世界的全貌</p><p>在天黑前<br>搭上最后的班车<br>从北向南<br>一同的还有<br>农民 小贩 初中生</p><p>黄昏的残影<br>被天边明丽的蓝色吞灭<br>悄然跌落成万家灯火</p><p>远处刚刚亮起的灯光暗示<br>夜的到来<br>车里的喧闹退散<br>沉默弥漫在空气中</p><p>一双双黑色的眼睛<br>透过玻璃寻找<br>在某一个路口<br>反射性的呼出声来</p><p>司机！<br>踩一脚（jio）</p><div align="right">七野禾<br>6.14<br></div>]]></content>
+    <content type="html"><![CDATA[<p>（其一）</p><p>知行楼前<br>一段不长的小道<br>我的故友<br>在这沉睡了许多年<br><a id="more"></a><br>我只在早晨和傍晚<br>拜访他<br>只有等世界安静了<br>脱轨的生活与鸟儿才会归巢</p><p>宁静的小道<br>不远处传来<br>打篮球的男生爽朗的声音<br>和结伴而行的女孩清脆的笑声</p><p>但这是暂时的<br>打破宁静的都将归为沉寂<br>漫长的年代里<br>一切只是浮光掠影</p><p>一段不长的路<br>我从这头走到那头<br>恍惚间<br>回头已是白头</p><p>（其二）</p><p>国道二零七<br>江华段<br>每一条回家的路<br>最初都是离家的路</p><p>一辆稍旧的小巴<br>终年奔波于此<br>它没有看见过外面的世界<br>只从旅客口中得知世界的全貌</p><p>在天黑前<br>搭上最后的班车<br>从北向南<br>一同的还有<br>农民 小贩 初中生</p><p>黄昏的残影<br>被天边明丽的蓝色吞灭<br>悄然跌落成万家灯火</p><p>远处刚刚亮起的灯光暗示<br>夜的到来<br>车里的喧闹退散<br>沉默弥漫在空气中</p><p>一双双黑色的眼睛<br>透过玻璃寻找<br>在某一个路口<br>反射性的呼出声来</p><p>司机！<br>踩一脚（jio）</p><div align="right">七野禾<br>6.14<br></div>]]></content>
     
     <summary type="html">
     
-      
-      
-        &lt;p&gt;（其一）&lt;/p&gt;
-&lt;p&gt;知行楼前&lt;br&gt;一段不长的小道&lt;br&gt;我的故友&lt;br&gt;在这沉睡了许多年&lt;/p&gt;
-&lt;p&gt;我只在早晨和傍晚&lt;br&gt;拜访他&lt;br&gt;只有等世界安静了&lt;br&gt;脱轨的生活与鸟儿才会归巢&lt;/p&gt;
-&lt;p&gt;宁静的小道&lt;br&gt;不远处传来&lt;br&gt;打篮球的男生爽朗的声音&lt;b
-      
+      &lt;p&gt;（其一）&lt;/p&gt;
+&lt;p&gt;知行楼前&lt;br&gt;一段不长的小道&lt;br&gt;我的故友&lt;br&gt;在这沉睡了许多年&lt;br&gt;
     
     </summary>
     
@@ -200,17 +181,14 @@
     <link href="http://yoursite.com/2018/05/07/%E7%AC%AC%E4%B8%89%E5%A4%A9%E7%9A%84%E5%88%9D%E5%A4%8F/"/>
     <id>http://yoursite.com/2018/05/07/第三天的初夏/</id>
     <published>2018-05-07T13:55:38.000Z</published>
-    <updated>2018-05-08T02:38:17.707Z</updated>
+    <updated>2018-09-28T14:48:09.521Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="http://thumbpress.com/wp-content/uploads/2015/02/cool-stars-building-view-colors-photography1.jpg" alt="image"></p><div align="center"><br>海浪把初夏推向岸边<br>风藏进鸟的眼睛<br>每一个路人擦肩而过<br>都有他等待的人<br><div align="center"><br>阳光欺骗了所有盛开的栀子花<br>暴雨如期而至<br>地上满是开心的尸体<br>心甘情愿<br><div align="center"><br>你不开口<br>我就不问<br>风铃响起的日子<br>你就会想起我<br><div align="center"><br>傍晚一盏盏灯<br>指引归家的人<br>流浪的我是<br>城市的萤火虫<br><div align="center"><br>一千扇窗户有一千种颜色<br>一阵风住满了<br>所有的房间<br>夏天 诞生 在夜里<br><br><br><div align="right">七野禾<br>5.7<br></div></div></div></div></div></div>]]></content>
+    <content type="html"><![CDATA[<p><img src="http://thumbpress.com/wp-content/uploads/2015/02/cool-stars-building-view-colors-photography1.jpg" alt="image"></p><div align="center"><br>海浪把初夏推向岸边<br>风藏进鸟的眼睛<br><a id="more"></a><br>每一个路人擦肩而过<br>都有他等待的人<br><div align="center"><br>阳光欺骗了所有盛开的栀子花<br>暴雨如期而至<br>地上满是开心的尸体<br>心甘情愿<br><div align="center"><br>你不开口<br>我就不问<br>风铃响起的日子<br>你就会想起我<br><div align="center"><br>傍晚一盏盏灯<br>指引归家的人<br>流浪的我是<br>城市的萤火虫<br><div align="center"><br>一千扇窗户有一千种颜色<br>一阵风住满了<br>所有的房间<br>夏天 诞生 在夜里<br><br><br><br><div align="right">七野禾<br>5.7<br></div></div></div></div></div></div>]]></content>
     
     <summary type="html">
     
-      
-      
-        &lt;p&gt;&lt;img src=&quot;http://thumbpress.com/wp-content/uploads/2015/02/cool-stars-building-view-colors-photography1.jpg&quot; alt=&quot;image&quot;&gt;&lt;/p&gt;
-&lt;div align=
-      
+      &lt;p&gt;&lt;img src=&quot;http://thumbpress.com/wp-content/uploads/2015/02/cool-stars-building-view-colors-photography1.jpg&quot; alt=&quot;image&quot;&gt;&lt;/p&gt;
+&lt;div align=&quot;center&quot;&gt;&lt;br&gt;海浪把初夏推向岸边&lt;br&gt;风藏进鸟的眼睛&lt;br&gt;
     
     </summary>
     
@@ -252,17 +230,14 @@
     <link href="http://yoursite.com/2018/04/19/%E5%9B%9B%E6%9C%88/"/>
     <id>http://yoursite.com/2018/04/19/四月/</id>
     <published>2018-04-18T16:30:25.000Z</published>
-    <updated>2018-09-28T13:52:50.140Z</updated>
+    <updated>2018-09-28T14:47:09.161Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1239474080,1101111313&amp;fm=27&amp;gp=0.jpg" alt="image"></p><div align="center"><br>程序是一个精明的愣头青<br>代码描绘不出情感<br>如果爱是上帝的安排<br>那么一定是源于某处的错误<br><div align="center"><br>象征死亡的却不死亡<br>冬天剥削春天<br>于是<br>人间的四月<br>雷雨夭折在海边<br><div align="center"><br>等待是一种无期徒刑<br>从你打算开始<br>镣铐锁上心<br>在劫难逃<br><div align="center"><br>承诺这种俏皮话<br>期限只有一秒钟<br>说的人随口而出<br>听的人至死不渝<br><br><br><br><div align="right">七野禾<br>4.19<br></div><hr></div></div></div></div>]]></content>
+    <content type="html"><![CDATA[<p><img src="https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1239474080,1101111313&amp;fm=27&amp;gp=0.jpg" alt="image"></p><div align="center"><br>程序是一个精明的愣头青<br>代码描绘不出情感<br>如果爱是上帝的安排<br>那么一定是源于某处的错误<br><a id="more"></a><br><div align="center"><br>象征死亡的却不死亡<br>冬天剥削春天<br>于是<br>人间的四月<br>雷雨夭折在海边<br><div align="center"><br>等待是一种无期徒刑<br>从你打算开始<br>镣铐锁上心<br>在劫难逃<br><div align="center"><br>承诺这种俏皮话<br>期限只有一秒钟<br>说的人随口而出<br>听的人至死不渝<br><br><br><br><div align="right">七野禾<br>4.19<br></div><hr></div></div></div></div>]]></content>
     
     <summary type="html">
     
-      
-      
-        &lt;p&gt;&lt;img src=&quot;https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1239474080,1101111313&amp;amp;fm=27&amp;amp;gp=0.jpg&quot; alt=&quot;image&quot;&gt;&lt;/p&gt;
-&lt;div a
-      
+      &lt;p&gt;&lt;img src=&quot;https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1239474080,1101111313&amp;amp;fm=27&amp;amp;gp=0.jpg&quot; alt=&quot;image&quot;&gt;&lt;/p&gt;
+&lt;div align=&quot;center&quot;&gt;&lt;br&gt;程序是一个精明的愣头青&lt;br&gt;代码描绘不出情感&lt;br&gt;如果爱是上帝的安排&lt;br&gt;那么一定是源于某处的错误&lt;br&gt;
     
     </summary>
     
